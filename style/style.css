@@ -653,6 +653,7 @@ body{
     .section-subtitle p{
         font-size: 2rem;
     }
+    
 }
 
 @media (width:375px) {
@@ -662,6 +663,13 @@ body{
 
     .swiper-slide p{
         font-size: 1rem;
+    }
+
+}
+
+@media (max-width:440px) {
+    .contact-icons-wrapper{
+        flex-wrap: wrap;
     }
 }
 
