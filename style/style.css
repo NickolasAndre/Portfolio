@@ -213,8 +213,8 @@ body{
     justify-content: center;
     align-items: center;
     position: relative;
-    background-image: url(../img/code-jpg.jpg);
     flex-direction: column;
+    background-image: url(../img/code-jpg.jpg);
     background-size: cover;
     background-position: top center;
     z-index: 1;
